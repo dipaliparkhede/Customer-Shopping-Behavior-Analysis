@@ -6,7 +6,20 @@ Python
 Pandas
 Jupyter Notebook
 PostgreSQL
+PowerBI 
+
+📊 Power BI Dashboard
+
+The interactive dashboard analyzes:
+
+💰 Total Revenue & Average Purchase Amount
+👥 Customer Segments
+🛍️ Product & Category Performance
+⭐ Average Review Ratings
+📦 Shipping Performance
+🔄 Subscription & Customer Loyalty
 
 🔄 Workflow
 
 Raw Data → Data Cleaning → Feature Engineering → PostgreSQL → SQL Analysis → Business Insights
+
